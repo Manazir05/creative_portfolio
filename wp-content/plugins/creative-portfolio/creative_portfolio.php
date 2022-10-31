@@ -8,7 +8,7 @@ Plugin URI: https:
 Description: A Custom plugin for Creative portfolio management
 Version: 1.0
 Author: Manazir Mustafa
-Author URI: https://github.com/dev-manazir
+Author URI: https://github.com/Manazir05
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: sep
